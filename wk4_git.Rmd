@@ -21,4 +21,6 @@ library(tmap)
 library(maptools)
 library(tidyverse)
 library(dplyr)
-
+library(RColorBrewer)
+library(sp)
+library(sf)
