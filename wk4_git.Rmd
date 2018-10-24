@@ -51,7 +51,4 @@ library(citr)
 library(rgdal)
 
 ldnmap <- read_sf(dsn = '.', layer = "england_lad_2011")
-plot(ldnmap)
 summary(ldnmap)
-asdfg
-
